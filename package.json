@@ -1,0 +1,27 @@
+{
+  "name": "jquery-lzload",
+  "version": "0.0.1",
+  "description": "lazy load elements via callback, i.e. initialize leaflet maps when in view",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanshawty/jquery-lzload.git"
+  },
+  "keywords": [
+    "lazy",
+    "load",
+    "elements",
+    "jquery"
+  ],
+  "author": "Ryan Shaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanshawty/jquery-lzload/issues"
+  },
+  "homepage": "https://github.com/ryanshawty/jquery-lzload#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^0.8.1",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-uglify": "^0.9.2"
+  }
+}
